@@ -1,0 +1,34 @@
+_repo: Jane-Lends-A-Hand_35593
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35593-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Watkins, Shirley
+    alias: Steinman, Shirley Watkins
+    birthdate: 1897
+    deathdate: 1979
+    gutenberg_agent_id: '36470'
+    url: http://www.gutenberg.org/2009/agents/36470
+description: '"Jane Winkler, a fourteen-year-old girl, is one of a family of five
+  children who live in quaint old Frederickstown in North Carolina. Her family has
+  inherited a famous bakery with all sorts of secret recipes for cakes and pies, and
+  it has long been a proud tradition that no one but a Winkler should own the bakery."--Front
+  flap of dust jacket.'
+gutenberg_issued: '2011-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage customs and rites -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Artists -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Family owned business enterprises -- Succession -- Juvenile fiction'
+title: Jane Lends A Hand
+url: http://www.gutenberg.org/ebooks/35593
